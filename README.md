@@ -6,7 +6,7 @@ chatGPT
 Power Point
 chatBOX AI
 ## 🧐 Processo de Criação
-Em interação com o chatGPT fiz revisão textual e pegueis dicas sobre o tema.
+Em interação com o chatGPT fiz revisão textual e peguei dicas sobre o tema.
 Com o texto revisado, as imagens geradas no chatBox,  criei slides no Ppt e salvei em pdf.
 ## 🚀 Resultados
 ()
