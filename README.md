@@ -9,7 +9,7 @@ chatBOX AI
 Em interação com o chatGPT fiz revisão textual e peguei dicas sobre o tema.
 Com o texto revisado, as imagens geradas no chatBox,  criei slides no Ppt e salvei em pdf.
 ## 🚀 Resultados
-()
+()ebook_13_dicas_gerenciamento_projetos.pdf
 ## 💭 Reflexão (Opcional)
 Agiliza e facilita parte do processo, mas percebi como é importante a competencia humana para guiar a IA
 
